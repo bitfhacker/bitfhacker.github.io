@@ -3,9 +3,9 @@ layout: post
 title: Configuring network of z/OS v10 running on Hercules (MAC OS)
 ---
 
-# From COBOL programming Studio
-
 [![Bitfhacker]({{ site.baseurl }}/images/dino.jpg)](https://bitfhacker.github.io/)
+
+# From COBOL programming Studio
 
 After some days of trying, I was able to ping z/OS running on Hercules! Hurray!
 
