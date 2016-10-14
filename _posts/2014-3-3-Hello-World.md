@@ -5,9 +5,9 @@ title: Configuring network of z/OS v10 running on Hercules (MAC OS)
 
 After some days of trying, I was able to ping z/OS running on Hercules! Hurray!
 
-[![Bitfhacker]({{ site.baseurl }}/images/dino.jpg)](https://bitfhacker.github.io/)
+# Here are the steps I took on the dinossaur!
 
-# Here are the steps I took.
+[![Bitfhacker]({{ site.baseurl }}/images/dino.jpg)](https://bitfhacker.github.io/)
 
 First of all, keep in mind that **SYS1.PROCLIB** is the standard *system procedure JCL*, but in ADCD (z/OS v10) the corresponding PROCLIB is **ADCD.Z110.PROCLIB**.
 
