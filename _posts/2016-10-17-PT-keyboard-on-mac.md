@@ -13,6 +13,7 @@ Answer: portuguese accents don't work! Argh!
 
 After some digging in the dirt, now I got it working. Now I can use ç ° ã í @ €  < > etecétera, escrever palavras exdrúúúxulas e exóticas como a Índia.
 
-If you need to use a MS Wired Keyboard on a mac, use the keyboard layout that I share here: https://github.com/bitfhacker/ms-wired-keyboard-600
+If you need to use a MS Wired Keyboard on a mac, use the keyboard layout that I share [here].
 
+[here]: <https://github.com/bitfhacker/ms-wired-keyboard-600>
 [IBM model M]: <https://en.wikipedia.org/wiki/Model_M_keyboard>
